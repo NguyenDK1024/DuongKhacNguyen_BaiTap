@@ -52,7 +52,7 @@ namespace DuongKhacNguyen_BaiTap
             //        if (i == 1) Console.WriteLine("Tong giai thua tu 1 den {0} la: {1}",n, s);
             //    }                
             //}
-            //////////////////////////////////////////////////////////////////////
+            ///////////
             Console.ReadKey();
         }
       
